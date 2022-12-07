@@ -113,6 +113,7 @@ and tb_aluno.sexo = 'F'
 
 
 ## 9ª Questão
+Faça um comando SQL que retorne os nomes dos cursos ordenados por ordem alfabética.
 
 ```sql
 select nome_curso
@@ -123,7 +124,13 @@ from tb_curo order by nome_curso asc
 ![q9DB](https://user-images.githubusercontent.com/114403979/206186768-c63918de-50f1-41da-a721-61b891b4f73e.png)
 
 ## 10ª Questão
+Crie o enunciado de uma consulta SQL que utiliza "junção" (com resposta).
 
 ```sql
+select ano_nasc,tb_curso.nome_curso,tb_aluno.nome_aluno
+from tb_aluno
+inner join tb_curso
+on tb_aluno.cod_aluno = tb_curso.cod_curso
+order by nome_curso asc 
 ```
 ## Resultado 
