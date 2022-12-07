@@ -134,3 +134,6 @@ on tb_aluno.cod_aluno = tb_curso.cod_curso
 order by nome_curso asc 
 ```
 ## Resultado 
+
+
+![q10Igor](https://user-images.githubusercontent.com/90520597/206245799-5e30169b-288c-4cd9-949d-a6a035e355e6.png)
