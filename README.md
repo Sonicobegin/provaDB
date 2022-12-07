@@ -135,3 +135,17 @@ order by nome_curso asc
 ```
 ## Resultado 
 ![trabadoDD](https://user-images.githubusercontent.com/104003510/206247087-8d9edbac-8794-418b-b4c2-034bb61a5c69.jpg)
+
+# Resolução da Prova Teórica
+
+Questão 1
+SQL é o acrônimo para Structured Query Language.É uma linguagem pra acesso e manipulação de dados,principalmente para banco de dados relacionais.
+
+Questão 2 
+A linguagem SQL foi originalmente desenvolvida no laboratório de pesquisa da IBM em San José, em conexão com um projeto de desenvolvimento de um protótipo para um sistema de gerenciamento de banco de dados relacional chamado System R no início dos anos 70.
+Os primeiros sistemas de gerenciamento de banco de dados baseados em SQL tornaram-se disponíveis comercialmente no final dos anos 70. Ao mesmo tempo, foram publicados sistemas de gerenciamento de banco de dados relacional baseados em outras linguagens. A alternativa mais conhecida para SQL era a linguagem QUEL no sistema Ingres.
+SQL foi eleito para padronização. Tanto a ANSI americana quanto a ISO internacional participaram da padronização
+Em 1986, o primeiro padrão SQL foi aprovado (o núcleo SQL cerca de 40 páginas + a linguagem do módulo e a incorporação em linguagens de programação, ao todo cerca de 100 páginas)
+Em 1989, um aprimoramento de integridade foi aprovado pela ISO, contendo, entre outros recursos, a possibilidade de especificação de chaves, chaves estrangeiras e algumas outras restrições (c. 20 páginas)
+Em 1992, foi aprovada a nova versão SQL-92 (também chamada de SQL2). Ele continha grandes melhorias para o idioma. O tamanho do padrão era de cerca. 600 páginas + o padrão do dicionário de dados. 
+
