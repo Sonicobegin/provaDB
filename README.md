@@ -138,14 +138,23 @@ order by nome_curso asc
 
 # Resolução da Prova Teórica
 
-Questão 1
+Questão 1:
 SQL é o acrônimo para Structured Query Language.É uma linguagem pra acesso e manipulação de dados,principalmente para banco de dados relacionais.
 
-Questão 2 
+Questão 2:
 A linguagem SQL foi originalmente desenvolvida no laboratório de pesquisa da IBM em San José, em conexão com um projeto de desenvolvimento de um protótipo para um sistema de gerenciamento de banco de dados relacional chamado System R no início dos anos 70.
 Os primeiros sistemas de gerenciamento de banco de dados baseados em SQL tornaram-se disponíveis comercialmente no final dos anos 70. Ao mesmo tempo, foram publicados sistemas de gerenciamento de banco de dados relacional baseados em outras linguagens. A alternativa mais conhecida para SQL era a linguagem QUEL no sistema Ingres.
 SQL foi eleito para padronização. Tanto a ANSI americana quanto a ISO internacional participaram da padronização
 Em 1986, o primeiro padrão SQL foi aprovado (o núcleo SQL cerca de 40 páginas + a linguagem do módulo e a incorporação em linguagens de programação, ao todo cerca de 100 páginas)
 Em 1989, um aprimoramento de integridade foi aprovado pela ISO, contendo, entre outros recursos, a possibilidade de especificação de chaves, chaves estrangeiras e algumas outras restrições (c. 20 páginas)
 Em 1992, foi aprovada a nova versão SQL-92 (também chamada de SQL2). Ele continha grandes melhorias para o idioma. O tamanho do padrão era de cerca. 600 páginas + o padrão do dicionário de dados. 
+
+Questão 3:
+SQL é uma linguagem padrão para trabalhar com bancos de dados relacionais. Ela é uma linguagem declarativa e que não necessita de profundos conhecimentos de programação para que alguém possa começar a escrever queries. A linguagem SQL é utilizada de maneira relativamente parecida entre os principais bancos de dados relacionais do mercado: Oracle, MySQL, MariaDB, PostgreSQL, Microsoft SQL Server, entre muitos outros. Cada um tem suas características, sendo o MySQL e o PostgreSQL extremamente populares por possuírem versões gratuitas e de código aberto.
+
+Questão 4:
+O comando SELECT é utilizado para extrair os dados das tabelas de um banco de dados. Ele pode extrair dados de uma ou mais tabelas ao mesmo tempo, executando desde simples consultas até comandos mais complexos, fazendo buscas, junções, filtros comparativos, ordenações e diversos outros itens.
+
+Questão 5:
+O SQL Server, criado pela Microsoft, é muito conhecido e utilizado no mercado. A linguagem usada nessa ferramenta é o T-SQL, e oferece recursos avançados e diferenciados para facilitar a atualização de dados e o armazenamento das informações de forma segura e confiável. O SQL Server atua com sistemas integrados de criptografia, permitindo que a visualização ou alteração das informações sejam feitas apenas pelas pessoas responsáveis, o que garante ainda mais segurança e tranquilidade para os usuários e empresários. É uma alternativa comumente utilizada em lojas online, instituições governamentais, bancos e indústrias dos mais diversos portes.
 
